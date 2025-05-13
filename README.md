@@ -1,4 +1,4 @@
-# ASK_ME
+# Calculator
 
 ## 📌 Overview
 This project is an advanced calculator system implemented in C++ using object-oriented programming principles. The calculator supports both basic and scientific operations with memory functionality.
